@@ -1,2 +1,2 @@
 # Playground
-Thimgs, stuff and doodads.
+Things, stuff and doodads.
